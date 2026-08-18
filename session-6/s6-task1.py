@@ -1,0 +1,9 @@
+playlist_price = {
+    "Chill Vibes": 999,
+    "Workout Hits": 199,  
+    "Top 40": 149,
+    "Classical Essentials": 799,
+    "Jazz Classics": 110,
+}
+
+print(playlist_price)
